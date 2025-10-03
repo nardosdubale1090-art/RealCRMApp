@@ -1,3 +1,5 @@
+// /src/component/dashboard/charts/ChartWrapper.tsx
+
 import React from 'react';
 
 interface ChartWrapperProps {
