@@ -224,7 +224,9 @@ export const AppearanceProvider: React.FC<{ children: ReactNode }> = ({ children
     const accentPalette = ACCENT_PALETTES[accentColor] || ACCENT_PALETTES.indigo;
     
     for (const [key, value] of Object.entries(accentPalette.vars)) {
-        root.style.setProperty(key, value);
+        if (typeof value === "string") {
+          root.style.setProperty(key, value);
+        }
     }
     
     const font = FONT_FAMILIES[fontFamily] || FONT_FAMILIES.inter;
