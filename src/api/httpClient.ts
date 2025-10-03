@@ -1,4 +1,3 @@
-// /src/api/httpClient.ts
 
 // This is a mock client to simulate API requests.
 // In a real application, this would be an instance of axios or a fetch-based client.
