@@ -1,6 +1,5 @@
 // /src/component/properties/PropertyCard.tsx
 
-
 import React, { useState } from 'react';
 import { useAuth } from '../../hooks/useAuth';
 import { MapPinIcon, BedIcon, RectangleGroupIcon, HeartIcon } from '../shared/Icons';
