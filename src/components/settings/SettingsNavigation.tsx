@@ -1,3 +1,5 @@
+// /src/component/settings/SettingNavigation.tsx
+
 import React, { useState, useRef, useEffect } from 'react';
 import { useMediaQuery } from '../../hooks/useMediaQuery';
 import { ChevronDownIcon } from '../shared/Icons';

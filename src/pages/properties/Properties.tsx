@@ -1,3 +1,5 @@
+// /src/pages/notifications/Properties.tsx
+
 import React, { useState, useCallback } from 'react';
 import { useAuth } from '../../hooks/useAuth';
 import { UserRole, PropertyItem, PropertyItemType, Unit } from '../../types';

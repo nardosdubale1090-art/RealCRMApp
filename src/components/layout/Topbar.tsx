@@ -1,3 +1,5 @@
+// /src/component/layout/Topbar.tsx
+
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 // Fix: Use navLinks from AppearanceContext instead of static constants.

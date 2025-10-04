@@ -1,3 +1,5 @@
+// /src/component/properties/details/BuildingDetailView.tsx
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Building, Site } from '../../../types';

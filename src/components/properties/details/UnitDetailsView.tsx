@@ -1,3 +1,5 @@
+// /src/component/properties/details/UnitDetailsView.tsx
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Unit, Building, Site, PropertyStatus } from '../../../types';

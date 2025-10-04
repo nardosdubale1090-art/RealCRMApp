@@ -1,3 +1,5 @@
+// /src/component/layout/Header.tsx
+
 import React, { useState, useRef, useEffect, useLayoutEffect, useMemo } from 'react';
 import { Link, NavLink, useLocation } from 'react-router-dom';
 import { BellIcon, MagnifyingGlassIcon, UserCircleIcon, ArrowLeftOnRectangleIcon, Bars3Icon, Cog6ToothIcon, BuildingStorefrontIcon, EllipsisHorizontalIcon, SidebarCollapseIcon, SidebarExpandIcon, XMarkIcon } from '../shared/Icons';

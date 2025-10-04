@@ -1,3 +1,5 @@
+// /src/component/dashboard/charts/EmployeePerformanceChart.tsx
+
 import React from 'react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { employeePerformanceData } from '../../../mocks/data';

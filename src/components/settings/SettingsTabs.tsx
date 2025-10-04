@@ -1,3 +1,5 @@
+// /src/component/settings/SettingTabs.tsx
+
 import React from 'react';
 
 // This component is no longer in use and has been replaced by SettingsNavigation.tsx

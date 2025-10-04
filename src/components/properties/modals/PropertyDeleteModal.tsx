@@ -1,3 +1,5 @@
+// /src/component/properties/modals/PropertyDeleteModal.tsx
+
 import React from 'react';
 import type { PropertyItem, PropertyItemType } from '../../../types';
 import { ExclamationTriangleIcon } from '../../shared/Icons';

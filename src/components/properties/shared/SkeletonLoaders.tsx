@@ -1,3 +1,5 @@
+// /src/component/properties/shared/SkeletonLoaders.tsx
+
 import React from 'react';
 
 export const UnitCardSkeleton: React.FC = () => {

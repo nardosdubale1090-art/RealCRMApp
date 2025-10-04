@@ -1,3 +1,5 @@
+// /src/types.ts
+
 import React from 'react';
 
 export enum UserRole {

@@ -1,3 +1,5 @@
+// /src/component/shared/Table.tsx
+
 import React from 'react';
 
 interface Column<T> {

@@ -1,3 +1,5 @@
+// /src/component/settings/SettingsCard.tsx
+
 import React from 'react';
 
 interface SettingsCardProps {

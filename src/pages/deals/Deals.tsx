@@ -1,3 +1,5 @@
+// /src/pages/deals/Deals.tsx
+
 import React from 'react';
 import Table from '../../components/shared/Table';
 import { mockDeals } from '../../mocks/data';

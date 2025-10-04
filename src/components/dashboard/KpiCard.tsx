@@ -1,3 +1,5 @@
+// /src/component/dashboard/KpiCards.tsx
+
 import React from 'react';
 import type { Kpi } from '../../types';
 

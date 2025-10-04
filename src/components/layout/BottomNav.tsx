@@ -1,3 +1,5 @@
+// /src/component/layout/BottomNav.tsx
+
 import React, { useState, useRef, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 import { useAuth } from '../../hooks/useAuth';

@@ -1,3 +1,5 @@
+// /src/pages/settins/Settings.tsx
+
 import React, { useState, useMemo, useEffect } from 'react';
 import { useAuth } from '../../hooks/useAuth';
 import { UserRole } from '../../types';

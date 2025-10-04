@@ -1,3 +1,5 @@
+// /src/component/settings/FontFamilyDropDown.tsx
+
 import React, { useState, useRef, useEffect } from 'react';
 // Fix: Import FONT_FAMILIES from AppearanceContext and derive FONT_FAMILIES_DATA.
 import { FONT_FAMILIES, useAppearance } from '../../context/AppearanceContext';

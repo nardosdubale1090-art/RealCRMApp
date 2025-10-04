@@ -1,3 +1,5 @@
+// /src/component/shared/Toast.tsx
+
 import React, { useEffect, useState } from 'react';
 import { ShieldCheckIcon } from './Icons';
 

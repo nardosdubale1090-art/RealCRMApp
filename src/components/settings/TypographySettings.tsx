@@ -1,3 +1,5 @@
+// /src/component/settings/TypographySettings.tsx
+
 import React, { useCallback, useEffect } from 'react';
 import SettingsCard from './SettingsCard';
 import FontFamilyDropdown from './FontFamilyDropdown';

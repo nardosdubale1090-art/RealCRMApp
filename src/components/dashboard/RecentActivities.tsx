@@ -1,3 +1,5 @@
+// /src/component/dashboard/RecentActivites.tsx
+
 import React from 'react';
 import { mockActivities } from '../../mocks/data';
 import type { RecentActivity } from '../../types';

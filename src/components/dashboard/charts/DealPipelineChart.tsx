@@ -1,3 +1,5 @@
+// /src/component/dashboard/charts/DealPipelineChart.tsx
+
 import React from 'react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts';
 import { dealPipelineData } from '../../../mocks/data';

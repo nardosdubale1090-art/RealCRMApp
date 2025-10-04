@@ -1,3 +1,5 @@
+// /src/mocks/data.ts
+
 import type { Client, Employee, Deal, Kpi, RecentActivity, Unit } from '../types';
 import { BanknotesIcon, UsersIcon, ClockIcon, ArrowTrendingUpIcon } from '../components/shared/Icons';
 import { mockSites } from './properties.data';

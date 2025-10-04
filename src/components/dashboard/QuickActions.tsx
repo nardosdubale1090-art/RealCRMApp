@@ -1,3 +1,5 @@
+// /src/component/dashboard/QuickActions.tsx
+
 import React from 'react';
 import { PlusCircleIcon, UsersIcon, BuildingOffice2Icon, BanknotesIcon, CalendarDaysIcon } from '../shared/Icons';
 

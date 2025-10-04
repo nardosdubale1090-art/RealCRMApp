@@ -1,3 +1,5 @@
+// /src/component/settings/NotificationSettings.tsx
+
 import React, { useState } from 'react';
 import { useAuth } from '../../hooks/useAuth';
 import { UserRole } from '../../types';

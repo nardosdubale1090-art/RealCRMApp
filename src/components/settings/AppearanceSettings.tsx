@@ -1,3 +1,5 @@
+// /src/component/settings/AppearanceSettings.tsx
+
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { useAppearance } from '../../context/AppearanceContext';
 import { useToast } from '../../context/ToastContext';

@@ -1,3 +1,5 @@
+// /src/pages/notifications/Notifications.tsx
+
 import React, { useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Notification } from '../../types';
