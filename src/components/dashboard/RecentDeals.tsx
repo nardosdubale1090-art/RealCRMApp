@@ -1,3 +1,6 @@
+// /src/component/dashboard/RecentDeals.tsx
+
+
 import React from 'react';
 import { mockDeals } from '../../mocks/data';
 import type { Deal } from '../../types';

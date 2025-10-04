@@ -1,3 +1,5 @@
+// /src/pages/client/MyInterest.tsx
+
 import React from 'react';
 
 const MyInterests: React.FC = () => {

@@ -1,3 +1,6 @@
+// /src/component/dashboard/charts/SalesChart.tsx
+
+
 import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { salesData } from '../../mocks/data';

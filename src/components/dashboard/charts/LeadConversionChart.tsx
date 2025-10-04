@@ -1,3 +1,5 @@
+// /src/component/dashboard/charts/LeadConversionChart.tsx
+
 import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { leadConversionData } from '../../../mocks/data';

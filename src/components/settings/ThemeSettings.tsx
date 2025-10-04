@@ -1,3 +1,5 @@
+// /src/component/settings/ThemeSettings.tsx
+
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { ACCENT_PALETTES } from '../../context/AppearanceContext';
 import { ComputerDesktopIcon, SunIcon, MoonIcon } from '../shared/Icons';

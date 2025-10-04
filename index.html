@@ -1,3 +1,5 @@
+<!-- /index.html ......This is the entry point of RE-CRM Pro  -->
+
 <!DOCTYPE html>
 <html lang="en" class="theme-dark-pro">
   <head>
@@ -101,15 +103,17 @@
         },
       }
     </script>
-  <script type="importmap">
+
+
+<script type="importmap">
 {
   "imports": {
-    "react-dom": "https://aistudiocdn.com/react-dom@^19.1.1",
-    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
-    "react/": "https://aistudiocdn.com/react@^19.1.1/",
-    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react-router-dom": "https://aistudiocdn.com/react-router-dom@^7.9.3",
     "recharts": "https://aistudiocdn.com/recharts@^3.2.1",
-    "react-router-dom": "https://aistudiocdn.com/react-router-dom@^7.9.3"
+    "react-dom": "https://aistudiocdn.com/react-dom@^19.2.0"
   }
 }
 </script>
@@ -117,5 +121,6 @@
   <body class="bg-background text-text-primary font-sans">
     <div id="root"></div>
     <div id="portal-root" ></div>
+    <script type="module" src="/src/index.tsx"></script>
   </body>
 </html>

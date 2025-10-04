@@ -1,3 +1,5 @@
+// /src/pages/crm/Clients.tsx
+
 import React from 'react';
 import Table from '../../components/shared/Table';
 import { mockClients } from '../../mocks/data';

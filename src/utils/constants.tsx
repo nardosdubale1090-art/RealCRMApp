@@ -1,3 +1,5 @@
+// /src/utils/constants.tsx
+
 import React from 'react';
 import { HomeIcon, Cog6ToothIcon, UsersIcon, BuildingOffice2Icon, BanknotesIcon, BriefcaseIcon, CalendarDaysIcon, ChartBarIcon, SparklesIcon, ListBulletIcon } from '../components/shared/Icons';
 import { UserRole, NavLinkItem } from '../types';

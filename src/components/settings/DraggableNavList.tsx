@@ -1,3 +1,5 @@
+// /src/component/settings/DraggableNavList.tsx
+
 import React, { useState, useRef } from 'react';
 import { NavLinkItem } from '../../types';
 import { Bars2Icon } from '../shared/Icons';

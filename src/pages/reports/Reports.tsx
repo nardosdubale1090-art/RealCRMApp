@@ -1,3 +1,5 @@
+// /src/pages/reports/Reports.tsx
+
 import React from 'react';
 
 const Reports: React.FC = () => {

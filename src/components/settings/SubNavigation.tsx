@@ -1,3 +1,5 @@
+// /src/component/settings/SubNavigation.tsx
+
 import React from 'react';
 
 interface Tab {

@@ -1,3 +1,5 @@
+// /src/component/properties/FeaturedPropertyCard.tsx
+
 import React, { useState } from 'react';
 import type { Unit } from '../../types';
 import { useAuth } from '../../hooks/useAuth';

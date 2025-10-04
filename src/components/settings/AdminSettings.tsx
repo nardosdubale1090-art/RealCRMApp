@@ -1,3 +1,5 @@
+// /src/component/settings/AdminSettings.tsx
+
 import React from 'react';
 import SettingsCard from './SettingsCard';
 

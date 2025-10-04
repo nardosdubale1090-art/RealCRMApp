@@ -1,3 +1,5 @@
+// /src/component/shared/Icons.tsx
+
 import React from 'react';
 
 // Generic Icon Props

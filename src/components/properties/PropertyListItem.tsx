@@ -1,3 +1,5 @@
+// /src/component/properties/PropertyListItem.tsx
+
 import React from 'react';
 import type { PropertyItem, PropertyItemType } from '../../types';
 import { 

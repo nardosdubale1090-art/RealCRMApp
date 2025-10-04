@@ -1,3 +1,5 @@
+// /src/component/settings/AgentSettings.tsx
+
 import React from 'react';
 import SettingsCard from './SettingsCard';
 

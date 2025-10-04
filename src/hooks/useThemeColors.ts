@@ -1,3 +1,5 @@
+// /src/hooks/useThemeColors.ts
+
 import { useState, useEffect } from 'react';
 import { useAppearance } from '../context/AppearanceContext';
 

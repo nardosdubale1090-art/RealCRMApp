@@ -1,3 +1,5 @@
+// /src/pages/dashboard/Dashboard.tsx
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import KpiCard from '../../components/dashboard/KpiCard';

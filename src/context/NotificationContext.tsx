@@ -1,3 +1,5 @@
+// /src/context/NotificationContext.tsx
+
 import React, { createContext, useState, ReactNode, useMemo, useCallback, useContext } from 'react';
 import { Notification } from '../types';
 import { mockNotifications } from '../mocks/notifications';

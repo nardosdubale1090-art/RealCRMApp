@@ -1,3 +1,5 @@
+// /src/component/settings/LayoutSettings.tsx
+
 import React from 'react';
 import { useMediaQuery } from '../../hooks/useMediaQuery';
 // Fix: Corrected typo from Square2x2Icon to Squares2X2Icon.

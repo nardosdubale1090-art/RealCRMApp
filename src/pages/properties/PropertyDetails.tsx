@@ -1,3 +1,5 @@
+// /src/pages/properties/PropertiesDetails.tsx
+
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { getSiteDetails, getBuildingDetails, getUnitDetails } from '../../api/properties.api';

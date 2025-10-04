@@ -1,3 +1,5 @@
+// /src/context/AppearanceContext.tsx
+
 import React, { createContext, useState, useEffect, ReactNode, useContext, useMemo, useCallback } from 'react';
 import { NavLinkItem } from '../types';
 import { DEFAULT_NAV_LINKS } from '../utils/constants';

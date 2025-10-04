@@ -1,3 +1,5 @@
+// /src/component/properties/PropertyGridView.tsx
+
 import React, { useState, useEffect } from 'react';
 import { getAllUnitsWithParentInfo } from '../../api/properties.api';
 import { Unit, PropertyItemType } from '../../types';

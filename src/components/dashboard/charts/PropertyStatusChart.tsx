@@ -1,3 +1,5 @@
+// /src/component/dashboard/charts/PropertyStatusChart.tsx
+
 import React from 'react';
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer, Legend } from 'recharts';
 import { propertyStatusData } from '../../../mocks/data';

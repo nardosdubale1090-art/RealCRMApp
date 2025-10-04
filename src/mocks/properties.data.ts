@@ -1,3 +1,5 @@
+// /src/mocks/properties.data.ts
+
 import type { Site } from '../types';
 
 export const mockSites: Site[] = [
