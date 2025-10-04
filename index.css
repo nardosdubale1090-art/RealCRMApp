@@ -1,29 +1,11 @@
-/* //src/index.css */
-
+/* /index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Optional: your CSS variables */
-:root {
-  --color-primary-hsl: 239 82% 66%;
-  --color-primary-hover-hsl: 239 92% 72%;
-  --color-chart-1: #3b82f6;
-  --color-chart-2: #8b5cf6;
-  --color-chart-3: #14b8a6;
-  --color-chart-4: #ec4899;
-  --color-chart-5: #f97316;
-
-  --font-family-sans: "Inter", sans-serif;
-}
-
-/* Theme defaults (dark-pro, light, midnight) */
-/* ...your existing CSS from <style> block... */
-
 /* Base styles for smoother transitions */
 * {
-  transition: background-color 250ms ease-in-out, color 250ms ease-in-out,
-    border-color 250ms ease-in-out;
+  transition: background-color 250ms ease-in-out, color 250ms ease-in-out, border-color 250ms ease-in-out;
 }
 
 /* Custom scrollbar for webkit browsers */
@@ -43,10 +25,11 @@
 }
 
 @layer components {
-  .page-content {
-    @apply animate-fade-in;
-  }
+    .page-content {
+        @apply animate-fade-in;
+    }
 }
+
 
 /* Drag and Drop styles */
 .dragging {

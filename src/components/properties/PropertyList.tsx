@@ -1,5 +1,6 @@
 // /src/component/properties/PropertyList.tsx
 
+
 import React, { useState, useEffect, useCallback } from 'react';
 import { getSites, getBuildings, getUnits } from '../../api/properties.api';
 import type { Site, Building, Unit, PropertyItem, PropertyItemType } from '../../types';
